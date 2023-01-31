@@ -11,6 +11,7 @@ Take a look this project with the features down below.
 - Created the structure using JS OOP
 - Design as a **Responsive** web 
 - Abilities to **edit** & **delete** workout and **delete all** workouts
+- Used Local Storage to store all the workouts
 - Click on popup, **move map** to corresponding popup
 - Map Zoom and View control
 
