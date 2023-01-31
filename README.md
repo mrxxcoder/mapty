@@ -1,10 +1,10 @@
 # Mapty with Lowkeylu
 
-**Here is my [Mapty](https://mapty-jin.netlify.app) project!**:wink: 
+**Here is my [Mapty](https://mrxxcoder.github.io/mapty/) project!**:wink: 
 
 Take a look this project with the features down below. 
 
-[live demo](https://mapty-jin.netlify.app)
+[live demo](https://mrxxcoder.github.io/mapty/)
 
 ## What I did in this project
 
